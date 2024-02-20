@@ -1,8 +1,8 @@
 # D-Log-Color-Restore
 将DJI pocket3或DJI action4等支持D-log的设备录制的D-log视频文件，批量转换为还原色彩的小工具
 
-# DJI D-LOG Video Color Restoration
-这个仓库包含一个Python脚本，该脚本使用FFmpeg批量还原由DJI无人机在D-LOG模式下拍摄的视频的色彩。该脚本为用户提供了一个简单的图形用户界面，用户可以选择包含视频的目录，并监视色彩还原过程的进度。
+这个仓库包含一个Python脚本，该脚本使用FFmpeg批量还原由DJI无人机或手持设备在D-LOG模式下拍摄的视频的色彩。该脚本为用户提供了一个简单的图形用户界面，用户可以选择包含视频的目录，并监视色彩还原过程的进度。
+
 This repository contains a Python script that uses FFmpeg to batch restore the color of videos shot in D-LOG mode by DJI drones. The script provides a simple GUI for users to select the directory containing the videos and monitor the progress of the color restoration process.
 
 ## 需求
